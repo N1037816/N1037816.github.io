@@ -1,0 +1,21 @@
+img {
+	
+width:100%;
+	border-radius:30%;
+
+}
+
+h1 {
+	font: !important;
+    padding: 200px;
+    /* background-position: center; */
+    background-size: contain;
+    color: mediumpurple;
+    background-image: url(https://clutchpoints.com/_next/image?url=https%3A%2F%2Fwp.clutchpoints.com%2Fwp-content%2Fuploads%2F2023%2F03%2Foscars-news-sean-astins-perfect-reaction-to-former-co-stars-brendan-fraser-ke-huy-quan-winning-academy-awards.jpg&w=3840&q=75);
+    background-repeat: no-repeat;
+}
+
+body{
+	background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
